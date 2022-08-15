@@ -20,7 +20,7 @@ public class Day2GitGithub {
              git push -u orijgin master
 
     Not: Yukaridaki iki komutu tek seferde kullandiktan sonra
-    ikinci commit'lerim icin sadece git push kullaniriz
+    ikinci commit'lerim icin sadece git push kullaniriz.
 
      */
 }
