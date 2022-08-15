@@ -5,6 +5,7 @@ public class Day1Git {
         System.out.println("Hello Git 3. Deneme");
         
         // github'ı da ogrendim
+        // githup puss
     }
 }
 
